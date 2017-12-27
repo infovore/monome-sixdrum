@@ -1,0 +1,19 @@
+{
+  "name": "6drum",
+  "version": "0.0.0",
+  "description": "simple drum sequencer for monome grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/infovore/monome-6drum.git"
+  },
+  "author": "Tom Armitage",
+  "license": "MIT",
+  "dependencies": {
+    "easymidi": "0.0.4",
+    "monome-grid": "1.0.2"
+  }
+}
